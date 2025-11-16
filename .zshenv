@@ -1,0 +1,2 @@
+
+source ~/.bash/path.sh

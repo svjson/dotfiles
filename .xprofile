@@ -1,0 +1,9 @@
+export _JAVA_AWT_WM_NONREPARENTING=1
+export GDK_BACKEND=x11
+
+export PATH="$HOME/.local/bin:$PATH"
+
+[ -f "./.fehbg" ]./.fehbg
+
+export XDG_CURRENT_DESKTOP="XMonad"
+export XDG_SESSION_DESKTOP="xmonad"
